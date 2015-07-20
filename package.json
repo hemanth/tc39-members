@@ -1,6 +1,6 @@
 {
   "name": "tc39-members",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "TC39 members.",
   "main": "humans.json",
   "repository": "hemanth/tc39-members",
