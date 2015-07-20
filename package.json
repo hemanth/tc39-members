@@ -1,0 +1,17 @@
+{
+  "name": "tc39-members",
+  "version": "0.0.0",
+  "description": "TC39 members.",
+  "main": "humans.json",
+  "repository": "hemanth/tc39-members",
+  "author": {
+    "name": "Hemanth.HM",
+    "email": "hemanth.hm@gmail.com",
+    "url": "h3manth.com"
+  },
+  "keywords": [
+    "TC39",
+    "members"
+  ],
+  "license": "MIT"
+}
