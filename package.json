@@ -2,7 +2,7 @@
   "name": "tc39-members",
   "version": "1.0.0",
   "description": "TC39 members.",
-  "main": "humans.json",
+  "main": "members.json",
   "repository": "hemanth/tc39-members",
   "author": {
     "name": "Hemanth.HM",
