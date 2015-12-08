@@ -1,0 +1,43 @@
+{
+    "members": {
+        "Ordinary": [
+            "Adobe",
+            "AMD",
+            "eBay",
+            "Google",
+            "HewlettPackard",
+            "Hitachi",
+            "IBM",
+            "Intel",
+            "KonicaMinolta",
+            "Yahoo"
+        ],
+        "Associate": [
+            "Apple",
+            "Canon",
+            "Facebook",
+            "Fujitsu",
+            "JREastMechatronics",
+            "Netflix",
+            "NipponSignal",
+            "NXP",
+            "OMRONSocialSolutions",
+            "Ricoh",
+            "Sony",
+            "Toshiba",
+            "Twitter"
+        ],
+        "SME": [
+            "AXARosenberg",
+            "ChinaIWNCOMM",
+            "MeteorDevelopmentGroup",
+            "Swissaudec",
+            "Xamarin"
+        ],
+        "SPC": [
+            "NewAudioTechnology",
+            "Nomad3D",
+            "QUADRAC"
+        ]
+    }
+}
